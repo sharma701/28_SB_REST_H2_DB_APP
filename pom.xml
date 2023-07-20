@@ -12,9 +12,9 @@
 	<artifactId>28-SBSTXCEPTION-APP</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>28_SB_REST_H2_DB_APP</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Rest Api usimhg h2 database project for Spring Boot</description>
 	<properties>
-		<java.version>1.8</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
